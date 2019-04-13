@@ -1,0 +1,6 @@
+Name:Gourab Saha(Reg:2017831004)(Email:gourabsahag@gmail.com)
+     Moshiur Rahman Autul(Reg:2017831021)(Email:autul13@gmail.com) 
+
+(Using Physics Engine)
+                                                                    Game Name: Paper Toss
+Description: The target of this game is to basket the paper. There will be air resistance. In the higher difficulty the basket will start to move and there will be more than one air resistance. The target of this game is to score points as much as possible. There is some special features, we will add in the game. 
