@@ -1,0 +1,33 @@
+
+Panda_and_Enemies.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Panda
+  rotate: false
+  xy: 1, 1
+  size: 777, 243
+  orig: 777, 243
+  offset: 0, 0
+  index: -1
+Start
+  rotate: false
+  xy: 780, 115
+  size: 128, 129
+  orig: 128, 129
+  offset: 0, 0
+  index: -1
+warlock_wand
+  rotate: false
+  xy: 910, 64
+  size: 76, 180
+  orig: 76, 180
+  offset: 0, 0
+  index: -1
+octopus
+  rotate: false
+  xy: 780, 76
+  size: 112, 37
+  orig: 112, 37
+  offset: 0, 0
+  index: -1
